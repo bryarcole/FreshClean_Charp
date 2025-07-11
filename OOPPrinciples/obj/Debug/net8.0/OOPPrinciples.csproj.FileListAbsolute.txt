@@ -1,0 +1,14 @@
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.deps.json
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.runtimeconfig.json
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.dll
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/bin/Debug/net8.0/OOPPrinciples.pdb
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.AssemblyInfoInputs.cache
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.AssemblyInfo.cs
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.csproj.CoreCompileInputs.cache
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.dll
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/refint/OOPPrinciples.dll
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.pdb
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.genruntimeconfig.cache
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/ref/OOPPrinciples.dll
