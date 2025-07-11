@@ -12,3 +12,4 @@
 /Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.pdb
 /Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.genruntimeconfig.cache
 /Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/ref/OOPPrinciples.dll
+/Users/bryarcole/FreshClean_Charp/OOPPrinciples/obj/Debug/net8.0/OOPPrinciples.sourcelink.json
